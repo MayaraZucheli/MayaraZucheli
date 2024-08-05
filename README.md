@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Mayara:
+# :balloon: Hi! I'm Mayara:
 A Systems Information student passionate about both front-end and back-end development.<br>
 <br>🌱 I’m currently learning Python, HTML, CSS and JavaScript<br>
 
