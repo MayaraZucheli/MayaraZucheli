@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mayarazucheli" target="blank"><img align="center" src="https://github.com/MayaraZucheli/logos_readme/blob/main/in_linked_linkedin_media_social_icon_124259.svg" alt="mayarazucheli" height="30" width="40" /></a>
 <a href="https://instagram.com/mayara.zucheli" target="blank"><img align="center" src="https://github.com/MayaraZucheli/logos_readme/blob/main/1485482189-instagram_78679.svg" alt="mayara.zucheli" height="30" width="40" /></a>
-<a href="https://www.behance.net/mayarazucheli" target="blank"><img align="center" src="https://github.com/MayaraZucheli/logos_readme/blob/main/1485482326-behance_78664.svg" alt="mayarazucheli" height="30" width="40" /></a>
+<a href="https://www.behance.net/mazucheli" target="blank"><img align="center" src="https://github.com/MayaraZucheli/logos_readme/blob/main/1485482326-behance_78664.svg" alt="mayarazucheli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
