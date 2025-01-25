@@ -1,6 +1,6 @@
 # :balloon: Hi! I'm Mayara:
 A Systems Information student passionate about both front-end and back-end development.<br>
-<br>🌱 I’m currently learning Python, HTML, CSS and JavaScript<br>
+<br>🌱 I’m currently learning Python, Java, SQL, HTML, CSS and JavaScript<br>
 
 📫 How to reach me mayara.zucheli@gmail.com<br>
 
